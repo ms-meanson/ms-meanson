@@ -28,7 +28,7 @@
 ### 📫 How to reach me:
 - **Website:** [wwww.meanson.biz](www.meanson.biz)
 - **GitHub:** [ms-meanson](https://github.com/ms-meanson)  
-- **Email:** [info@meansonit.store](mailto:info@meanson.biz)
+- **Email:** [info@eanson.bi](mailto:info@meanson.biz)
 - **Telegram:** [MeanSON](https://t.me/MeanSON)  
 - **Facebook:** [SONMean.IT](https://www.facebook.com/SONMean.IT)  
 - **Instagram:** [ms.it](https://www.instagram.com/_ms.it)
