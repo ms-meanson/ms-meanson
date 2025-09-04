@@ -26,7 +26,7 @@
 - My journey in IT and web development.  
 
 ### 📫 How to reach me:
-- **Website:** [wwww.meanson.biz](www.meanson.biz)
+- **Website:** [www.meanson.biz](www.meanson.biz)
 - **GitHub:** [ms-meanson](https://github.com/ms-meanson)  
 - **Email:** [info@eanson.biz](mailto:info@meanson.biz)
 - **Telegram:** [MeanSON](https://t.me/MeanSON)  
