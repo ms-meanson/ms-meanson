@@ -26,9 +26,9 @@
 - My journey in IT and web development.  
 
 ### 📫 How to reach me:
-- **Website:** [www.meansonit.store](www.meansonit.store)  
+- **Website:** [wwww.meanson.biz](www.meanson.biz)
 - **GitHub:** [ms-meanson](https://github.com/ms-meanson)  
-- **Email:** [info@meansonit.store](mailto:info@meansonit.store)
+- **Email:** [info@meansonit.store](mailto:info@meanson.biz)
 - **Telegram:** [MeanSON](https://t.me/MeanSON)  
 - **Facebook:** [SONMean.IT](https://www.facebook.com/SONMean.IT)  
 - **Instagram:** [ms.it](https://www.instagram.com/_ms.it)
